@@ -38,9 +38,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-I learned better to work with tables in HTML and CSS.
-I also learned to use media queries to make the website responsive to different screen sizes.
-
+I learned:
+- to work with tables in HTML and CSS.
+- to use media queries to make the website responsive to different screen sizes.
+- to style the marker-element of list-items. 
 
 ## Author
 
